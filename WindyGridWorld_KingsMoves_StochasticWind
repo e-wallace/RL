@@ -1,7 +1,7 @@
 '''
 Course: CISC 453: Reinforcement Learning
 Windy Grid World with King's moves and stochastic wind
-Student Number: 20062694
+Student Number: ********
 
 '''
 import numpy as np
